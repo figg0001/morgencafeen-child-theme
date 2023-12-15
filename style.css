@@ -1,0 +1,250 @@
+/*
+Theme Name: Astra Child
+Theme URI: https://wpastra.com/
+Template: astra
+Author: Brainstorm Force
+Author URI: https://wpastra.com/about/?utm_source=theme_preview&utm_medium=author_link&utm_campaign=astra_theme
+Description: Astra is fast, fully customizable &amp; beautiful WordPress theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready so search engines will love your site. It offers special features and templates so it works perfectly with all page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Some of the other features: # WooCommerce Ready # Responsive # RTL &amp; Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained &amp; Supported by Brainstorm Force. Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and WooCommerce ready theme that you can use for building any kind of website!
+Tags: custom-menu,custom-logo,entertainment,one-column,two-columns,left-sidebar,e-commerce,right-sidebar,custom-colors,editor-style,featured-images,full-width-template,microformats,post-formats,rtl-language-support,theme-options,threaded-comments,translation-ready,blog
+Version: 4.5.0.1702640959
+Updated: 2023-12-15 12:49:19
+
+*/
+
+body {
+    word-break: break-word;
+}
+a:focus {
+    outline: none;
+}
+a:hover {
+    color: #deaf2c;
+}
+.site .skip-link:focus {
+    outline: none;
+}
+.ast-button-wrap .menu-toggle:focus {
+    outline: none;
+}
+.ast-menu-toggle:focus {
+    outline: none;
+}
+.site-header.header-main-layout-1.ast-primary-menu-enabled.ast-hide-custom-menu-mobile.ast-builder-menu-toggle-icon.ast-mobile-header-inline {
+    position: sticky;
+    top: 0;
+}
+.ast-header-search .ast-search-menu-icon.ast-dropdown-active .search-form, .ast-header-search .ast-search-menu-icon.ast-dropdown-active .search-field:focus {
+    border-color: #762023;
+}
+.ast-custom-button {
+    -moz-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+.ast-custom-button:hover {
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+}
+h1 {
+    font-size: 45px;
+}
+.breadcrumbtext p {
+    font-size: 15px !important;
+}
+.ast-button-wrap:focus {
+    border: none;
+}
+.ast-menu-toggle:hover {
+    outline: none;
+}
+.nyhedsbrevfooter {
+    color: white;
+}
+.wpcf7-form-control.wpcf7-submit.has-spinner {
+    background-color: #deaf2c;
+    color: white;
+    font-size: 20px;
+    border: solid 2px #deaf2c;
+    font-family: 'Bebas Neue', sans-serif;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
+    -moz-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    letter-spacing: 1px;
+    padding: 12px 20px;
+}
+.wpcf7-form-control.wpcf7-submit.has-spinner:hover {
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.site-footer p {
+    font-size: 16px;
+}
+.footer-social-inner-wrap.element-social-inner-wrap.social-show-label-false.ast-social-color-type-custom.ast-social-stack-none.ast-social-element-style-filled svg {
+    -moz-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+.footer-social-inner-wrap.element-social-inner-wrap.social-show-label-false.ast-social-color-type-custom.ast-social-stack-none.ast-social-element-style-filled svg:hover {
+    -moz-transform: scale(1.13);
+    -webkit-transform: scale(1.13);
+    -o-transform: scale(1.13);
+    transform: scale(1.13);
+}
+.site-footer label {
+    font-size: 15px;
+}
+.site-footer .wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
+    width: 75%;
+    height: 5.5vh;
+}
+.site-footer .wpcf7-list-item {
+    margin-left: 0;
+}
+.site-footer .wpcf7-list-item-label {
+    font-style: italic;
+    font-size: 13px;
+    line-height: normal;
+}
+.slider-der-skal {
+    width: 70% !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    display: block !important;
+}
+.elementor-toggle-title:hover {
+    color: #762023 !important;
+}
+.elementor-toggle .elementor-tab-title {
+    border-bottom: 2px solid !important;
+    border-bottom-color: #762023 !important;
+}
+.elementor-toggle .elementor-tab-content {
+    border-bottom-color: white !important;
+}
+.rapport-grow {
+    -moz-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+.rapport-grow:hover {
+    -moz-transform: scale(1.03);
+    -webkit-transform: scale(1.03);
+    -o-transform: scale(1.03);
+    transform: scale(1.03);
+}
+.wpcf7 form.sent .wpcf7-response-output {
+    border-color: #deaf2c;
+}
+.wpcf7 form .wpcf7-response-output {
+    margin: 0;
+}
+.nyhedsbrevknap .wpcf7-list-item-label {
+    font-style: italic;
+    color: white !important;
+    font-size: 14px;
+}
+.nyhedsbrevknap .wpcf7-list-item {
+    margin-left: 2px;
+}
+.eael-tab-title.title-after-icon {
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+.eael-tab-title.title-after-icon:hover {
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2);
+}
+.elementor-link a {
+    text-decoration: none;
+    color: black;
+}
+.elementor-link a:hover {
+    color: #deaf2c;
+}
+.ast-single-post .entry-content a, .ast-comment-content a:not(.ast-comment-edit-reply-wrap a) {
+    text-decoration: none;
+}
+.elementor-image-box-title {
+    margin-top: 25px;
+}
+.cmplz-title {
+    font-weight: 400 !important;
+    font-size: 20px !important;
+    font-family: 'Bebas Neue', sans-serif;
+}
+.cmplz-message {
+    font-family: 'Chivo', sans-serif;
+}
+.cmplz-buttons button {
+    font-family: 'Bebas Neue', sans-serif;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+.cmplz-buttons button:hover {
+    -moz-transform: scale(1.03);
+    -webkit-transform: scale(1.03);
+    -o-transform: scale(1.03);
+    transform: scale(1.03);
+}
+.glowpaa {
+    -moz-transition: box-shadow 0.5s ease-in-out;
+    -webkit-transition: box-shadow 0.5s ease-in-out;
+    -o-transition: box-shadow 0.5s ease-in-out;
+    transition: box-shadow 0.5s ease-in-out;
+    animation: glowAnimation 0.8s infinite alternate;
+}
+@media (max-width: 1020px) {
+#ast-mobile-header {
+    display: block !important;
+}
+#ast-desktop-header {
+    display: none;
+}
+}
+@media only screen and (max-width: 900px) {
+h1 {
+    font-size: 40px;
+}
+p {
+    font-size: 17px;
+}
+}
+@media (max-width: 700px) {
+.fc-col-header-cell-cushion {
+    font-size: 16px !important;
+}
+.fc-timeGridWeek-button.fc-button.fc-button-primary {
+    display: none;
+}
+}
+@media (max-width: 575px) {
+.eael-event-calendar-wrapper .fc-toolbar h2 {
+    font-size: 25px !important;
+}
+}
+@media only screen and (max-width: 500px) {
+h1 {
+    font-size: 35px;
+}
+p {
+    font-size: 16px;
+}
+}
